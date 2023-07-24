@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span</name>
+   <tag></tag>
+   <elementGuidId>34070e27-82af-4e0d-b582-35d06315a16e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shopify-section-header']/sticky-header/header/div/details-modal/details/summary/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>summary.header__icon.header__icon--search.header__icon--summary.link.focus-inset.modal__toggle > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8a1a2c5a-41f1-44ad-b7db-843887448674</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shopify-section-header&quot;)/sticky-header[@class=&quot;header-wrapper color-background-1 gradient header-wrapper--border-bottom&quot;]/header[@class=&quot;header header--middle-left header--mobile-center page-width header--has-menu&quot;]/div[@class=&quot;header__icons&quot;]/details-modal[@class=&quot;header__search&quot;]/details[1]/summary[@class=&quot;header__icon header__icon--search header__icon--summary link focus-inset modal__toggle&quot;]/span[1]</value>
+      <webElementGuid>c36a714c-8e23-46c5-9868-86757b906d7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shopify-section-header']/sticky-header/header/div/details-modal/details/summary/span</value>
+      <webElementGuid>f53e794f-e07f-4c66-a726-aaaa660434f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Footwear'])[2]/following::span[1]</value>
+      <webElementGuid>7de6f051-32cb-4ac8-90a9-e059fe5c6db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Puzzle'])[2]/following::span[1]</value>
+      <webElementGuid>91432fc8-baf7-4480-aea9-4b04616ec15a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::span[1]</value>
+      <webElementGuid>9149246a-9515-4ce0-a05f-b2d88bc8a888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::span[2]</value>
+      <webElementGuid>6030863b-7520-469c-8321-94b7485a0a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//details-modal/details/summary/span</value>
+      <webElementGuid>47159d9a-6846-4ac2-a18c-511f21cc8f40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
