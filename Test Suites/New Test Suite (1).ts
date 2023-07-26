@@ -12,17 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>44b01419-8800-446a-b395-e910f1b3be0c</testSuiteGuid>
    <testCaseLink>
-      <guid>b934e72d-dd02-4868-89e1-058d495d193c</guid>
+      <guid>c871445a-2b19-494d-bda0-e9963d672ffc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/test/Change currency</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>159a21a5-e6a6-4930-abfe-1fc64063d83e</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/test/ready to ware - Shirt</testCaseId>
+      <testCaseId>Test Cases/test/ready to wear - t shirt</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
